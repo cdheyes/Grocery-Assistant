@@ -1,3 +1,4 @@
+
 *, *::before, *::after {
   box-sizing: border-box;
   padding: 0;
@@ -5,7 +6,7 @@
 }
 
 body {
-  background-image: url("/img/shopping-list-background - BLUR.png");
+  background-image: url("img/backgroundBLUR.png");
   background-repeat: no-repeat;
   background-position: right top;
   background-attachment: initial;
